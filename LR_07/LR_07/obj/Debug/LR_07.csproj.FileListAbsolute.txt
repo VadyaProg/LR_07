@@ -1,0 +1,7 @@
+Z:\2020_2021 учебный год\31ИС\ИСРПО\Симагин\LR_07\LR_07\bin\Debug\LR_07.exe.config
+Z:\2020_2021 учебный год\31ИС\ИСРПО\Симагин\LR_07\LR_07\bin\Debug\LR_07.exe
+Z:\2020_2021 учебный год\31ИС\ИСРПО\Симагин\LR_07\LR_07\bin\Debug\LR_07.pdb
+Z:\2020_2021 учебный год\31ИС\ИСРПО\Симагин\LR_07\LR_07\obj\Debug\LR_07.csprojResolveAssemblyReference.cache
+Z:\2020_2021 учебный год\31ИС\ИСРПО\Симагин\LR_07\LR_07\obj\Debug\LR_07.csproj.CoreCompileInputs.cache
+Z:\2020_2021 учебный год\31ИС\ИСРПО\Симагин\LR_07\LR_07\obj\Debug\LR_07.exe
+Z:\2020_2021 учебный год\31ИС\ИСРПО\Симагин\LR_07\LR_07\obj\Debug\LR_07.pdb
